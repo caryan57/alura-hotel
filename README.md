@@ -32,11 +32,16 @@ Se creó un usario por default para acceder al menu de adminsitración (admin, c
 ![Imagen del formulario para agregar reservas](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/ADD_RESERVA.png)
 
 **Agregar Huéspedes**
-![Imagen del login del programa](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/ADD_HUESPED.png)
-![Imagen del login del programa](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/SUCCESS_RESERVA.png)
+![Imagen del formulario agregar huesped](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/ADD_HUESPED.png)
+![Imagen de notificacion de reserva agregada con exito](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/SUCCESS_RESERVA.png)
 
 **Busqueda por reservas o huespedes**
-![Imagen del login del programa](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSQUEDA_RESERVAS.png)
-![Imagen del login del programa](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSQUEDA_HUESPEDES.png)
-![Imagen del login del programa](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSCAR_FECHA.png)
-![Imagen del login del programa](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSCAR_NOMBRE.png)
+![Imagen de la tabla de búsqueda de reservas](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSQUEDA_RESERVAS.png)
+![Imagen de la tabla de búsqueda de huespedes](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSQUEDA_HUESPEDES.png)
+![Imagen de buscador por fecha](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSCAR_FECHA.png)
+![Imagen de buscador por nombre](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/BUSCAR_NOMBRE.png)
+
+## 📝Créditos
+
+Desarrollado por Carlos Olivares como parte del increíble programa desarrollado por 🧡 **Oracle** y 💙 **Alura Latam**
+<a href="https://www.linkedin.com/in/charlyolicor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
