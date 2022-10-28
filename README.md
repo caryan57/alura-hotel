@@ -25,7 +25,7 @@ Se creó un usario por default para acceder al menu de adminsitración (admin, c
 **Login**
 ![Imagen del login del programa](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/LOGIN.png)
 
-**Menu Uusario Admin**
+**Menu Usario Admin**
 ![Imagen del menu administrativo](https://github.com/caryan57/alura-hotel/blob/main/src/img/IMAGENES%20DEL%20PROYECTO/MENU%20USUARIO.png)
 
 **Agregar Reservas**
